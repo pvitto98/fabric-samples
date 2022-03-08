@@ -19,3 +19,5 @@ node_modules/
 # Ignore Gradle build output directory
 build
 package-lock.json
+test-network/__pycache__/
+test-network/data.pickle
